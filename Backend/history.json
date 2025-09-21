@@ -1,0 +1,472 @@
+{
+  "phq9": [
+    {
+      "date": "2025-09-21 02:31:32",
+      "score": 5,
+      "q9": 0
+    },
+    {
+      "date": "2025-09-21 10:58:56",
+      "score": 18,
+      "q9": 1,
+      "interpretation": "\u26a0 Critical Alert: You reported thoughts of self-harm or that you'd be better off dead.\nPlease seek immediate help: reach out to a mental health professional, emergency services, or someone you trust right away.",
+      "recommendation": {
+        "message": "You should contact a counselor immediately.",
+        "url": "http://localhost:3000/book-counsellor"
+      }
+    },
+    {
+      "date": "2025-09-21 11:40:47",
+      "score": 20,
+      "q9": 1,
+      "interpretation": "\u26a0 Critical Alert: You reported thoughts of self-harm or that you'd be better off dead.\nPlease seek immediate help: reach out to a mental health professional, emergency services, or someone you trust right away.",
+      "recommendation": {
+        "message": "You should contact a counselor immediately.",
+        "url": "http://localhost:3000/book-counsellor"
+      }
+    }
+  ],
+  "emotions": [
+    {
+      "date": "2025-09-20 17:10:44",
+      "text": "hii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:10:53",
+      "text": "go and sleep",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:11:09",
+      "text": "make me feel sleepy by flirting with me",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.675
+    },
+    {
+      "date": "2025-09-20 17:11:21",
+      "text": "flirt with me",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:11:35",
+      "text": "ohhh you made me wet",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:11:43",
+      "text": "bye",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:15:14",
+      "text": "heeiii babyy",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:15:20",
+      "text": "love you",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:15:34",
+      "text": "can you be my virtual friend",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 17:15:52",
+      "text": "you are quite booring",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:00:55",
+      "text": "hii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:13:20",
+      "text": "hopw are you",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:16:20",
+      "text": "hiii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:16:25",
+      "text": "how are you",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:16:40",
+      "text": "just hactic day at college",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:16:59",
+      "text": "can you keep talking with me",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:22:31",
+      "text": "hlloo",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:22:41",
+      "text": "what are you doing",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:22:58",
+      "text": "i like talking to you",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:23:12",
+      "text": "i am having chest pain",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.939
+    },
+    {
+      "date": "2025-09-20 18:23:24",
+      "text": "yes",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:25:13",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-20 18:25:23",
+      "text": "sao dry",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:05:23",
+      "text": "hi",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:05:28",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 02:05:32",
+      "text": "yes",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:27:44",
+      "text": "hii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:27:49",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 02:27:53",
+      "text": "yes",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:58:46",
+      "text": "hio\\",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 02:58:51",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 09:35:37",
+      "text": "heyy",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 09:35:44",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 09:47:12",
+      "text": "hie",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 09:47:19",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 09:47:23",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 09:51:18",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 09:51:24",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 09:54:58",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 09:58:25",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:02:57",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 10:03:04",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:06:46",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:08:36",
+      "text": "i am sadf",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.988
+    },
+    {
+      "date": "2025-09-21 10:10:35",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:12:00",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:16:53",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:19:14",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 10:58:08",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 10:58:14",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 11:00:04",
+      "text": "hi",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:00:09",
+      "text": "my name i spriyansh",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:00:19",
+      "text": "what do you do",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:00:59",
+      "text": "i am feeling a bit low",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.994
+    },
+    {
+      "date": "2025-09-21 11:01:19",
+      "text": "i want phq9",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:01:49",
+      "text": "hiii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:02:31",
+      "text": "hei",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:02:43",
+      "text": "i am feeling a bit low",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.994
+    },
+    {
+      "date": "2025-09-21 11:03:19",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 11:05:38",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:05:42",
+      "text": "i am sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.991
+    },
+    {
+      "date": "2025-09-21 11:39:56",
+      "text": "hii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-21 11:40:10",
+      "text": "i am feeling a bit low",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.994
+    }
+  ]
+}

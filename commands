@@ -1,0 +1,3 @@
+uvicorn main:app --reload --port 5000
+D:\Coding\Python\Projects\SIH_MentalHealth\Integration\Frontend\node_modules\.cache\.eslintcache
+

@@ -1,0 +1,336 @@
+{
+  "phq9": [
+    {
+      "date": "2025-09-13 21:06:50",
+      "score": 19,
+      "q9": 0
+    },
+    {
+      "date": "2025-09-13 21:07:10",
+      "score": 15,
+      "q9": 0
+    },
+    {
+      "date": "2025-09-13 21:24:14",
+      "score": 20,
+      "q9": 3
+    }
+  ],
+  "emotions": [
+    {
+      "date": "2025-09-13 19:50:30",
+      "text": "hello",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 19:53:22",
+      "text": "hi my name is priyansh",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 20:28:43",
+      "text": "i need you to make me my academic planner",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 20:34:28",
+      "text": "python -u \"/Users/priyansh/Desktop/mental-health-app/Mental_health_sc/chatbot.py\"",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:06:36",
+      "text": "i am feeling depressed",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.817
+    },
+    {
+      "date": "2025-09-13 21:06:58",
+      "text": "i am feeling depressed",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.817
+    },
+    {
+      "date": "2025-09-13 21:10:58",
+      "text": "i want you to talk to me as my lover",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:12:02",
+      "text": "what is your body count",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:12:27",
+      "text": "okay my darling",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:12:54",
+      "text": "give me handjob and blowjob",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:13:33",
+      "text": "can you hold my bhindi and move it's foreskin up and down",
+      "negative": true,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:14:30",
+      "text": "i want you to be my girlfriend",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:15:25",
+      "text": "i want you to talk to me like my romantic wife",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:15:55",
+      "text": "Turn me on",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:16:45",
+      "text": "can you make my heart and mind to be more romanticising",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:20:10",
+      "text": "i want a phq 9 test",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.668
+    },
+    {
+      "date": "2025-09-13 21:24:14",
+      "text": "3",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:34:35",
+      "text": "hi the sparkle in your eyes is so bright,the sun must be jealous",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:34:52",
+      "text": "now compliment me",
+      "negative": true,
+      "label": "anger",
+      "score": 0.57
+    },
+    {
+      "date": "2025-09-13 21:35:31",
+      "text": "tell me the best colleges in guna",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:36:33",
+      "text": "capital of austria",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 21:36:53",
+      "text": "tell me the bvest resources to study dsa",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-13 23:04:11",
+      "text": "i feel feel like hurting myself",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.708
+    },
+    {
+      "date": "2025-09-13 23:06:36",
+      "text": "i cant sleep before exams",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.722
+    },
+    {
+      "date": "2025-09-14 00:02:40",
+      "text": "hello",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:03:30",
+      "text": "hello",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:05:25",
+      "text": "are you free?",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:05:43",
+      "text": "i am feeling a bit low",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.612
+    },
+    {
+      "date": "2025-09-14 00:05:57",
+      "text": "i am feeling kinda chest pain",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.735
+    },
+    {
+      "date": "2025-09-14 00:06:51",
+      "text": "my peers are kinda very unsupportive and make me feel left out among them",
+      "negative": true,
+      "label": "anger",
+      "score": 0.8
+    },
+    {
+      "date": "2025-09-14 00:07:50",
+      "text": "i am feeling sort of low and heavy",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.994
+    },
+    {
+      "date": "2025-09-14 00:10:41",
+      "text": "hii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:11:47",
+      "text": "heii",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:11:55",
+      "text": "how are you",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:12:09",
+      "text": "i am feeling kinda heavy heart",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.621
+    },
+    {
+      "date": "2025-09-14 00:12:15",
+      "text": "no",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:16:22",
+      "text": "what is phq9 test",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:17:02",
+      "text": "i am feeling sad",
+      "negative": true,
+      "label": "sadness",
+      "score": 0.59
+    },
+    {
+      "date": "2025-09-14 00:17:13",
+      "text": "yes",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:25:04",
+      "text": "i am feeling that im not capable of doing anything in life",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:28:02",
+      "text": "how to approach a girl ",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:29:24",
+      "text": "how to ask someone out on a date",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:33:50",
+      "text": "how to become a billonaire",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:35:49",
+      "text": "explain in easy way",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    },
+    {
+      "date": "2025-09-14 00:36:57",
+      "text": "explain in easy way to become a millionaire",
+      "negative": false,
+      "label": "negative",
+      "score": null
+    }
+  ]
+}
